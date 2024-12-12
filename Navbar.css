@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #0078d7;
+    color: white;
+  }
+  
+  .nav-icons div {
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
